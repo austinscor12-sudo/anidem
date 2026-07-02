@@ -1,0 +1,12 @@
+INSTRUCCIONES ADMIN ANIDEM
+
+1. Descomprimir este ZIP dentro de la carpeta miweb.
+2. Abrir anidem_profesional.html con Live Server.
+3. Entrar al panel desde el link "Panel privado" del pie de página o escribiendo #admin al final de la URL.
+4. Iniciar sesión con Google usando austinscor12@gmail.com.
+5. Pegar y publicar las reglas de FIREBASE_REGLAS.txt en Firebase > Firestore Database > Reglas.
+6. Tocar "Crear contenido inicial" una sola vez.
+7. Desde el panel se puede editar título, descripción, apartado, orden, visibilidad, WhatsApp, Instagram y foto/video existente.
+
+Por ahora no se suben archivos nuevos desde el panel porque Firebase Storage pide activar plan de pago. Para usar una foto nueva sin Storage, copiá el archivo a la carpeta anidem_assets y escribí su ruta, por ejemplo:
+anidem_assets/nueva-foto.webp
